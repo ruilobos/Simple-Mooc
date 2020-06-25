@@ -1,14 +1,18 @@
 # Simplemooc
 Simplemooc is a platform for online courses.
 
-This is a web application project that allows the user to create a report on a specific cryptocurrency. The application collects a variety of information and compiles it into a single report.
+This project aims to develop an online course platform.
 
-In the user area, reports of various cryptocurrencies can be saved. And the information in these reports will be updated automatically.
+Platform features:
 
-Technical information
+- Administrative area, in which the courses will be created and inserted the didactic material, such as videos and documents.
+- Student area being possible to view the enrolled courses;
+- Doubts forum for each course;
 
-- Language used in the Back-End: Python
+Technical Features:
+
+- Back-End language: Python;
 - Framework: Django;
-- Use of APIs to collect information;
-- Fornt-End: JavaScript, HTML and CSS;
 - Database: SQLite;
+- Integration with YouTube via API;
+- Front-End: JavaScript, HTML, CSS;
